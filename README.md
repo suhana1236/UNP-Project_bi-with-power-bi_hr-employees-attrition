@@ -5,5 +5,7 @@ Key Highlights:1.Contributed to the development of intricate KPIs and dynamic,in
 2.Learnt to analyse the data and translate them into effective Power BI soluation.
 Enhanced skill in creating data model,implemented data transformations and calculations using DAX for accurate analysis and reporting.
 4.Lead the team through its intricate symphony pf information.
+
 PBIX FILE LINK:https://drive.google.com/file/d/1YfVP13IqPXxfoTsAfjlF3MH4cevl6FY0/view?usp=sharing
+
 PDF LINK: https://drive.google.com/file/d/1vouI33AkossDwLy7WSXySE7lLtbSK0nJ/view?usp=sharing
